@@ -1,0 +1,47 @@
+.list-item {
+  list-style-type: none;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.lists {
+  display: flex;
+}
+.time {
+  color: #475569;
+  font-family: 'Roboto';
+  font-weight: 800;
+}
+
+.logo {
+  height: 30px;
+  width: 40px;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.title {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-size: 20px;
+  margin-left: 10px;
+}
+.url {
+  color: #64748b;
+  margin-left: 10px;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+.delete-logo {
+  height: 20px;
+  width: 20px;
+}
+.button {
+  outline: none;
+  background-color: transparent;
+  border: none;
+  text-align: right;
+}
